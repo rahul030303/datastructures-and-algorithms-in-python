@@ -1,0 +1,4 @@
+celsius * 1.8 = fahrenheit - 32
+kilometers = miles / 0.621371 
+miles = 0.62 * kms
+# A composite number must have a factor less than square root of that number; otherwise the number is prime.

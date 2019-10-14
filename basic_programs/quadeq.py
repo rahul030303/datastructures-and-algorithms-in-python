@@ -1,0 +1,10 @@
+import cmath
+a = int(input("enter coefficient of x**2"))
+b = int(input("enter coefficient of x"))
+c = int(input("enter constant"))
+d = (b ** 2) - (4 * a * c)
+soln1 = (-b + cmath.sqrt(d))/(2*a)
+soln2 = (-b - cmath.sqrt(d))/(2*a)
+print("The two roots are {} and {}".format(soln1,soln2))
+print("The two roots are {1} and {0}".format(soln1,soln2))
+print("The two roots are {first} and {second}".format(second=soln2,first=soln1))

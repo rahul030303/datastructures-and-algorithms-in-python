@@ -1,0 +1,13 @@
+#1. lambda exp or fun(anonymous or one time use or throw away functions)
+
+#2. map,filter,reduce
+
+#3. for loop with else
+    break statement can be used to stop a for loop. In such case, the else part is ignored.
+
+#4. In Python, break and continue statements can alter the flow of a normal loop.
+The break statement is used to skip the rest of the code inside a loop for all iterations.(skips the complete loop).
+The continue statement is used to skip the rest of the code inside a loop for the current iteration only.
+Loop does not terminate but continues on with the next iteration.
+
+#5. range(start,end,step)
