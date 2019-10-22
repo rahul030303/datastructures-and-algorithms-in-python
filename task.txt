@@ -1,0 +1,2 @@
+#15 oct 2k19
+permutations() from iterables,join(),enumerate() methods

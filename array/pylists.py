@@ -107,6 +107,13 @@ my_list.reverse()
 # Output: [8, 8, 6, 4, 3, 1, 0]
 print(my_list)
 
+#sort()- updates the previous list and sorted()-doesn't update previous list
+list1 = [1,24,5,2,7]
+# list1.sort()
+a= sorted(list1)
+print(list1)
+print(a)
+
 #List Comprehension: Elegant way to create new List
 #List comprehension is an elegant and concise way to create new list from an existing list in Python.
 #List comprehension consists of an expression followed by for statement inside square brackets.
